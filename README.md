@@ -5,7 +5,7 @@ Our goal is to analyze the factors influencing obesity levels, a critical global
 
 Our Group Consist of 4 members :
 
-Hadeel Bin Jassas
-Layan Alfawzan
-Lena Alsabi
-Leena Alhaider
+- Hadeel Bin Jassas
+- Layan Alfawzan
+- Lena Alsabi
+- Leena Alhaider
